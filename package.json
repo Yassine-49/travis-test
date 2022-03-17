@@ -1,0 +1,12 @@
+{
+    "name": "learn-travis-yassine",
+    "description": "Simple Travis-CI check for JSHint (Code Linting)",
+    "author": "yassine arrad",
+    "version": "0.0.1",
+    "devDependencies": {
+        "jshint": "^2.13.4"
+    },
+    "scripts": {
+        "test": "jshint hello.js"
+    }
+}
